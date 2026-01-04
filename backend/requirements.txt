@@ -1,0 +1,7 @@
+tensorflow
+datasets
+flask
+flask-cors
+numpy
+pillow
+
